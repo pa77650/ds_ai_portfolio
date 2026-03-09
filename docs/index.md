@@ -1,0 +1,8 @@
+# Proekt ze swiata danych i AI-jów
+
+Witam na stronie poświęconej projektom z dziedziny analizy danych, uczenia maszynowego i sztucznej inteligencji. Znajdziecie tutaj wiele z projektów nad którymi pan Rafał pracował w ostatnim czasie.
+
+Zapraszam do zapoznania się z nimi i mam nadzieję, że znajdziecie coś ciekawego dla siebie.
+
+## O mnie
+Hej jestem PW zaczelam interesować się sztuczną inteligencją o takiego czasu...

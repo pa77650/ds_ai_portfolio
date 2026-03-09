@@ -1,0 +1,30 @@
+site_name: Moje projekty
+site_author: Patrycja Warminska
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+repo_name: pa77650/ds_ai_portfolio
+repo_url: https://github.com/pa77650/ds_ai_portfolio
+
+theme:
+  name: material
+  palette:
+    primary: brown
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "language_helper": language_helper/index.md
+  
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
+
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
